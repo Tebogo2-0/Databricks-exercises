@@ -1,1 +1,3 @@
 # Databricks-exercises
+
+sql exercises
